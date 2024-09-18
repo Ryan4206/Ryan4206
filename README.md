@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/Ryan-Kisner/"> Cybersecurity Professional</a><h1>
 
 <h2> Certifications: </h2>
-- <b>CompTIA Security+</b>
+- <b>CompTIA Security+</b> /n
 - <b>CompTIA Network+</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
