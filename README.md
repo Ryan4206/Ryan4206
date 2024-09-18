@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ryan! <br/> 
   <a href="https://www.linkedin.com/in/Ryan-Kisner/"> Cybersecurity Professional</a><h1>
 
-<h2> Certifications </h2>
+<h2> Certifications: </h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
