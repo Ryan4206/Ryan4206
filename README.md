@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ryan! <br/> <a href="https://www.linkedin.com/in/Ryan-Kisner/">
-  Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor"><h1>
+  Cybersecurity Professional</a><h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
