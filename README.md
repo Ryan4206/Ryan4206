@@ -4,6 +4,7 @@
 <h2> Certifications: </h2>
 - <b>CompTIA Security+<br/> 
 - <b>CompTIA Network+</b>
+- <b>CompTIA A+</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
