@@ -1,29 +1,47 @@
-<h1>Hi, I'm Ryan! <br/> 
-  <a href="https://www.linkedin.com/in/Ryan-Kisner/"> Cybersecurity Professional</a><h1>
+<h1 align="center">Hi, I'm Ryan! 👋<br/>
+<a href="https://www.linkedin.com/in/ryan-kisner/">Cybersecurity Professional</a>
+</h1>
 
-<h2> Certifications: </h2>
-- <b>CompTIA Security+<br/> 
-- <b>CompTIA Network+</br/>
-- <b>CompTIA A+</b>
+---
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### 🛡️ About Me
+I'm a low voltage electrician turned cybersecurity analyst, passionate about network defense, ethical hacking, and securing cloud environments. I hold several industry certifications and am continually growing my skills through hands-on projects and labs.
 
-- <b>Packet Tracer Home Lab Subnet Setup</b>
- 
+---
 
+### 📜 Certifications
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
 
+---
 
-<h2> 🤳 Connect with me:</h2>
-[instagram]: https://www.instagram.com/kisner.ryan/
-[linkedin]: www.linkedin.com/in/ryan-kisner
+### 👨‍💻 Cybersecurity Projects
+- 🔌 **Packet Tracer Home Lab Subnet Setup**  
+  Designed and configured a segmented home network using Cisco Packet Tracer to simulate real-world environments and practice subnetting, routing, and device security configurations.
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*More projects coming soon...*
+
+---
+
+### 🧰 Tools & Technologies
+- Networking: Cisco Packet Tracer, Wireshark, pfSense
+- Security: TryHackMe, Splunk, Wazuh, Nessus
+- Scripting: Python (learning), Bash
+- OS: Linux (Ubuntu, Kali), Windows Server
+- Cloud: AWS (currently studying Cloud Practitioner)
+
+---
+
+### 📬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ryan-kisner/)
+- [Instagram](https://www.instagram.com/kisner.ryan/)
+
+---
+
+<!-- Optional Future Sections
+### 🔭 I’m currently working on...
+### 🌱 I’m currently learning...
+### 💬 Ask me about...
+### 📫 How to reach me...
 -->
